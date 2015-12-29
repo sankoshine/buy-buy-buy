@@ -1,0 +1,14 @@
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\bin\Debug\Buy-buy-buy.exe.config
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\bin\Debug\Buy-buy-buy.exe
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\bin\Debug\Buy-buy-buy.pdb
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy-buy-buy.csprojResolveAssemblyReference.cache
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.Form1.resources
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.Properties.Resources.resources
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy-buy-buy.csproj.GenerateResource.Cache
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy-buy-buy.exe
+c:\users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy-buy-buy.pdb
+C:\Users\sanko\Documents\Visual Studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.Order.resources
+C:\Users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.Ininin.resources
+C:\Users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.Delete.resources
+C:\Users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.detail.resources
+C:\Users\sanko\documents\visual studio 2012\Projects\Buy-buy-buy\Buy-buy-buy\obj\Debug\Buy_buy_buy.choice.resources
